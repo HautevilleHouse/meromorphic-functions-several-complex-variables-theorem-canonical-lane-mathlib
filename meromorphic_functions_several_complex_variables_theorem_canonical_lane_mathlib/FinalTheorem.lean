@@ -1,0 +1,9 @@
+import meromorphic_functions_several_complex_variables_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace meromorphic_functions_several_complex_variables_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end meromorphic_functions_several_complex_variables_theorem_canonical_lane_mathlib
+end HautevilleHouse
